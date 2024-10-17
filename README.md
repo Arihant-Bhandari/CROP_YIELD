@@ -39,16 +39,20 @@ Dataset link: https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-
 
 * Decision Tree Regressor or Regression Tree
 
-Best Metrics (VERS 1.0): Regression Tree
+* Best Metrics (VERS 1.0): Regression Tree
 
 Mean Absolute Error: 7.983686352867446
+
 Mean Squared Error: 126.0381354941169
+
 R-squared Score: 0.9794002575574614
 
-Contender: XGB Regressor
+* Contender: XGB Regressor
 
 Mean Absolute Error: 13.342473329651927
+
 Mean Squared Error: 126.96814795459791
+
 R-squared Score: 0.9790951324643361
 
 ---
